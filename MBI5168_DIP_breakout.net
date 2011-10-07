@@ -1,0 +1,102 @@
+# EESchema Netlist Version 1.1 created  Fri 07 Oct 2011 01:37:24 PM CEST
+(
+ ( /4E8BFEF3 -C1206 C1 10µF
+  ( 1 VCC )
+  ( 2 GND )
+ )
+ ( /4E8BF590 -C0805 C2 100nF
+  ( 1 VCC )
+  ( 2 GND )
+ )
+ ( /4E8BF562 DIP-16__300_ELL IC1 MBI5168
+  ( 1 GNDPWR )
+  ( 2 /MOSI/SDI )
+  ( 3 /SCK )
+  ( 4 /CS )
+  ( 5 /LED0 )
+  ( 6 /LED1 )
+  ( 7 /LED2 )
+  ( 8 /LED3 )
+  ( 9 /LED4 )
+  ( 10 /LED5 )
+  ( 11 /LED6 )
+  ( 12 /LED7 )
+  ( 13 /ENABLE )
+  ( 14 /SDO )
+  ( 15 N-000014 )
+  ( 16 VCC )
+ )
+ ( /4E8BF887 SIL-8 P1 CONN_8
+  ( 1 /LED0 )
+  ( 2 /LED1 )
+  ( 3 /LED2 )
+  ( 4 /LED3 )
+  ( 5 /LED4 )
+  ( 6 /LED5 )
+  ( 7 /LED6 )
+  ( 8 /LED7 )
+ )
+ ( /4E8BF8E8 SIL-8 P2 CONN_8
+  ( 1 /V+_LED )
+  ( 2 /V+_LED )
+  ( 3 /V+_LED )
+  ( 4 /V+_LED )
+  ( 5 /V+_LED )
+  ( 6 /V+_LED )
+  ( 7 /V+_LED )
+  ( 8 /V+_LED )
+ )
+ ( /4E8BF96D SIL-8 P3 CONN_8
+  ( 1 VCC )
+  ( 2 /SCK )
+  ( 3 /MOSI/SDI )
+  ( 4 /CS )
+  ( 5 /ENABLE )
+  ( 6 ? )
+  ( 7 /V+_LED )
+  ( 8 GNDPWR )
+ )
+ ( /4E8BF977 SIL-8 P4 CONN_8
+  ( 1 VCC )
+  ( 2 /SCK )
+  ( 3 /SDO )
+  ( 4 /CS )
+  ( 5 /ENABLE )
+  ( 6 ? )
+  ( 7 /V+_LED )
+  ( 8 GNDPWR )
+ )
+ ( /4E8C10AE MADW__SMD-solder-bridge P5 CONN_2
+  ( 1 GNDPWR )
+  ( 2 GND )
+ )
+ ( /4E8BF5CC -R0805 R1 180
+  ( 1 N-000008 )
+  ( 2 N-000014 )
+ )
+ ( /4E8BF5E3 RV2 RV1 1k
+  ( 1 GND )
+  ( 2 GND )
+  ( 3 N-000008 )
+ )
+)
+*
+{ Allowed footprints by component:
+$component C1
+ SM*
+ C?
+ C1-1
+$endlist
+$component C2
+ SM*
+ C?
+ C1-1
+$endlist
+$component R1
+ R?
+ SM0603
+ SM0805
+ R?-*
+$endlist
+$endfootprintlist
+}
