@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Fri 07 Oct 2011 01:37:11 PM CEST
+EESchema Schematic File Version 2  date Sun 23 Oct 2011 06:46:22 PM CEST
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -38,7 +38,7 @@ encoding utf-8
 Sheet 1 1
 Title "MBI5168 DIP breakout"
 Date "5 oct 2011"
-Rev "0.1"
+Rev "0.11"
 Comp "My 2µf blog"
 Comment1 ""
 Comment2 ""

@@ -1,4 +1,4 @@
-# EESchema Netlist Version 1.1 created  Fri 07 Oct 2011 01:37:24 PM CEST
+# EESchema Netlist Version 1.1 created  Sun 23 Oct 2011 06:49:11 PM CEST
 (
  ( /4E8BFEF3 -C1206 C1 10µF
   ( 1 VCC )
@@ -74,7 +74,7 @@
   ( 1 N-000008 )
   ( 2 N-000014 )
  )
- ( /4E8BF5E3 RV2 RV1 1k
+ ( /4E8BF5E3 MADW__pot_2x2_flat RV1 1k
   ( 1 GND )
   ( 2 GND )
   ( 3 N-000008 )

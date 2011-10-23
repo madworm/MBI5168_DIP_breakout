@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPCB (2011-07-08)-stable date = Fri 07 Oct 2011 01:37:24 PM CEST
+Cmp-Mod V01 Created by CvPCB (2011-07-08)-stable date = Sun 23 Oct 2011 06:49:11 PM CEST
 
 BeginCmp
 TimeStamp = /4E8BFEF3;
@@ -67,7 +67,7 @@ BeginCmp
 TimeStamp = /4E8BF5E3;
 Reference = RV1;
 ValeurCmp = 1k;
-IdModule  = RV2;
+IdModule  = MADW__pot_2x2_flat;
 EndCmp
 
 EndListe
